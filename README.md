@@ -1,7 +1,6 @@
 # Jenkins on docker with useful plugins
 Jenkins on docker with plugins that I always use.
 
-[DockerHub](https://hub.docker.com/r/takecy/jenkins/)  
 [Including pulgins](plugins.txt)
 
 
@@ -10,7 +9,8 @@ Jenkins on docker with plugins that I always use.
 ```
 $ docker pull takecy/jenkins:1.0.0
 ```
-[Tags](https://hub.docker.com/r/takecy/jenkins/tags/)
+[DockerHub](https://hub.docker.com/r/takecy/jenkins/)  
+[ImageTags](https://hub.docker.com/r/takecy/jenkins/tags/)
 
 <br/>
 ## Do you need more plugins?

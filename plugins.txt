@@ -25,3 +25,4 @@ disk-usage:0.28
 maven-plugin:2.12.1
 zentimestamp:4.2
 mailer:1.16
+flexible-publish:0.15.2
