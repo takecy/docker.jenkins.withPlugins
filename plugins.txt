@@ -27,3 +27,4 @@ zentimestamp:4.2
 mailer:1.16
 flexible-publish:0.15.2
 buildtriggerbadge:2.2
+simple-theme-plugin:0.3
