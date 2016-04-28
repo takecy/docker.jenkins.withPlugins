@@ -1,4 +1,4 @@
-FROM jenkins:latest
+FROM jenkins:1.651.1-alpine
 
 MAINTAINER takecy
 
