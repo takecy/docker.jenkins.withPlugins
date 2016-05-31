@@ -1,4 +1,4 @@
-FROM jenkins:1.651.1-alpine
+FROM jenkins:1.651.2-alpine
 
 MAINTAINER takecy
 
