@@ -7,6 +7,7 @@ Jenkins on docker with plugins that I always use.
 [DockerHub](https://hub.docker.com/r/takecy/jenkins/)  
 
 <br/>
+
 ## Quick Usage
 ```
 $ docker pull takecy/jenkins:1.651.2-alpine
@@ -16,6 +17,7 @@ $ docker pull takecy/jenkins:1.651.2-alpine
 [See Here](plugins.txt)
 
 <br/>
+
 ## Do you need more plugins?
 ```
 $ git clone git@github.com:takecy/docker.jenkins.withPlugins.git
@@ -29,5 +31,6 @@ $ open http://localhost:8080
 ```
 
 <br/>
+
 ## License
 [MIT](./LISENCE)
